@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4683</objectGroupId>
+	<objectId>46837011-331a-ecd0-78d1-88648e6a251d</objectId>
+	<sections_o item-list="true">	<item>	<section_html>&lt;p&gt;cdcdcd&lt;/p&gt;</section_html>
+	</item></sections_o>
+	<file-name>index.xml</file-name>
+	<folder-name>qwww</folder-name>
+	<internal-name>aass</internal-name>
+	<title_t>cdcd</title_t>
+	<subject_t>cdcdc</subject_t>
+	<author_s>dcdcd</author_s>
+	<disabled>false</disabled>
+	<featured_b>false</featured_b>
+	<header_o item-list="true"/>
+	<left-rail_o item-list="true"/>
+	<categories_o>	<item>	<key>payment</key>
+	<value_smv>Payment</value_smv>
+	</item></categories_o>
+	<segments_o>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item></segments_o>
+	<image_s/>
+	<summary_t>cdcdc</summary_t>
+	<date_dt>2020-11-11T05:00:00.000Z</date_dt>
+	<createdDate>2021-01-19T12:37:34.161Z</createdDate>
+	<createdDate_dt>2021-01-19T12:37:34.161Z</createdDate_dt>
+	<lastModifiedDate>2021-01-19T12:37:34.161Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-19T12:37:34.161Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>
