@@ -9,14 +9,14 @@
 	<header/>
 	<file-name>index.xml</file-name>
 	<folder-name>style</folder-name>
-	<internal-name>Style</internal-name>
-	<title_t>Style</title_t>
+	<internal-name>amazon</internal-name>
+	<title_t>amazon</title_t>
 	<placeInNav>true</placeInNav>
 	<orderDefault_f>8000</orderDefault_f>
 	<createdDate>2017-3-13T22:26:52.000Z</createdDate>
 	<createdDate_dt>2017-3-13T22:26:52.000Z</createdDate_dt>
-	<lastModifiedDate>2021-01-19T08:51:00.713Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-01-19T08:51:00.713Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-01-19T08:52:04.646Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-19T08:52:04.646Z</lastModifiedDate_dt>
 	<left-rail/>
 	<category_s>amazon</category_s>
 	<max_articles_i>10</max_articles_i>
