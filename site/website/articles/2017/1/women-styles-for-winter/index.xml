@@ -6,18 +6,42 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>b308</objectGroupId>
 	<objectId>b30875f3-87ce-7b55-fd19-3d5c00508a08</objectId>
-	<sections_o item-list="true">	<item>	<section_html>&lt;p&gt;Donec quis justo ligula. Ut commodo nibh sit amet ultrices ultricies. Curabitur tempus venenatis vulputate. Quisque dignissim interdum tempus. Pellentesque luctus justo augue, vel gravida orci rutrum a. Sed elementum est sapien. Suspendisse scelerisque volutpat mi vel finibus. Proin sapien sem, malesuada non finibus et, tincidunt eget augue. Cras a pretium tellus.&lt;/p&gt;
-&lt;p&gt;Praesent diam augue, vehicula nec commodo et, placerat et magna. Duis dictum ligula odio, sollicitudin viverra sapien eleifend vel. Donec iaculis lacus eget urna tempus, sit amet auctor lectus venenatis. Nunc tempor risus lectus, sit amet vehicula ligula dignissim eu. Nullam faucibus rutrum ullamcorper. Nunc varius nunc tortor, vitae vulputate eros bibendum eget. Vestibulum gravida ligula nec ultrices sodales. Vestibulum scelerisque luctus consectetur.&lt;/p&gt;
-&lt;p&gt;Curabitur a nulla vel lectus posuere sagittis at sed est. Nunc sed ultrices nibh. Fusce egestas placerat libero, nec suscipit neque accumsan sed. Aliquam erat volutpat. Maecenas vitae enim ut mauris egestas molestie. Pellentesque euismod pretium purus sed iaculis. Integer fringilla sapien nec tempor auctor. Morbi at ante porttitor, sodales metus quis, molestie erat. Ut egestas dignissim tincidunt. Morbi ac finibus augue. In scelerisque sit amet elit non viverra. Pellentesque lobortis sit amet ligula ac ultrices. Fusce eleifend enim eu consectetur iaculis. Vivamus egestas augue sit amet faucibus rhoncus. In mi ligula, hendrerit vel ex nec, tincidunt luctus sem.&lt;/p&gt;
-&lt;p&gt;Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus molestie mi et metus vestibulum iaculis. Donec porta mi magna, vitae aliquet dui malesuada nec. Proin viverra eget risus et luctus. Donec eget enim vulputate orci pretium laoreet. Nullam ultricies lectus arcu, id lobortis purus pellentesque ut. Pellentesque eget finibus neque, at dapibus metus. Nunc dignissim, orci at sagittis gravida, mi lorem aliquam purus, eu laoreet mi dui in tellus. Sed sagittis suscipit iaculis. Donec urna eros, commodo sit amet vulputate et, dictum non est. Nulla sollicitudin imperdiet bibendum. Vivamus eget purus in dolor fermentum bibendum eget elementum elit. Curabitur egestas dapibus urna ac vulputate. Pellentesque suscipit sapien at egestas vulputate. Mauris imperdiet et magna at euismod. Vestibulum maximus at lacus ac pellentesque.&lt;/p&gt;
-&lt;p&gt;Integer lacinia fringilla lectus nec porttitor. Mauris euismod massa ex, ut luctus neque accumsan eget. Vestibulum dolor lacus, feugiat vel sagittis sed, euismod id lorem. Vivamus quis purus mauris. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc eget tempus tortor. Fusce at nunc a libero dignissim ullamcorper sed quis libero. Aenean posuere pulvinar dui, ac semper ex molestie sit amet. Mauris tempor consequat erat quis mattis. Nam consequat nunc auctor sollicitudin tincidunt. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris eget enim ante. Vestibulum eleifend tincidunt nibh. In id pharetra sem. Donec nibh ex, fringilla sed finibus sit amet, vestibulum vitae enim. Mauris eu nunc eu lorem egestas accumsan vitae eu diam.&lt;/p&gt;</section_html>
+	<sections_o item-list="true">	<item>	<section_html>&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Ở giao diện trang chủ Etsy, chọn Sell on Etsy để tạo t&amp;agrave;i khoản b&amp;aacute;n h&amp;agrave;ng tr&amp;ecirc;n Etsy.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Sau khi đăng nhập t&amp;agrave;i khoản Etsy, nhấp v&amp;agrave;o n&amp;uacute;t &amp;ldquo;Sell on Etsy&amp;rdquo; để bắt đầu tạo t&amp;agrave;i khoản b&amp;aacute;n h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;&lt;strong style="box-sizing: border-box;"&gt;Bước 1: Điền th&amp;ocirc;ng tin cơ bản ở mục Shop Preferences&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class="wp-block-image size-large" style="box-sizing: border-box; display: block; margin: 0px 0px 1em; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;
+&lt;figcaption style="box-sizing: border-box; margin: 6px 0px 26px; text-align: left; font-size: 11px; font-style: italic; line-height: 17px; color: #444444;"&gt;Điền th&amp;ocirc;ng tin cơ bản&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Trong đ&amp;oacute;, c&amp;aacute;c th&amp;ocirc;ng tin cơ bản bao gồm:&lt;/p&gt;
+&lt;ul style="box-sizing: border-box; padding: 0px; margin-bottom: 26px; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;
+&lt;li style="box-sizing: border-box; line-height: inherit; margin-left: 21px; margin-bottom: 10px;"&gt;&lt;strong style="box-sizing: border-box;"&gt;Shop language:&lt;/strong&gt;&amp;nbsp;Chọn Tiếng Anh (English) cho shop của bạn&lt;/li&gt;
+&lt;li style="box-sizing: border-box; line-height: inherit; margin-left: 21px; margin-bottom: 10px;"&gt;&lt;strong style="box-sizing: border-box;"&gt;Shop country:&lt;/strong&gt;&amp;nbsp;Chọn Việt Nam (Vietnam)&lt;/li&gt;
+&lt;li style="box-sizing: border-box; line-height: inherit; margin-left: 21px; margin-bottom: 10px;"&gt;&lt;strong style="box-sizing: border-box;"&gt;Shop currency:&lt;/strong&gt;&amp;nbsp;Chọn đồng đ&amp;ocirc; la Mỹ (United States Dollar)&lt;/li&gt;
+&lt;li style="box-sizing: border-box; line-height: inherit; margin-left: 21px; margin-bottom: 0px;"&gt;&lt;strong style="box-sizing: border-box;"&gt;Which of these best describe you?:&lt;/strong&gt;&amp;nbsp;Chọn mục thứ 3 l&amp;agrave; bạn b&amp;aacute;n h&amp;agrave;ng b&amp;aacute;n thời gian tr&amp;ecirc;n Etsy (I sell part-time and that&amp;rsquo;s how I like it)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;&lt;strong style="box-sizing: border-box;"&gt;Bước 2: Đặt t&amp;ecirc;n shop&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class="wp-block-image size-large" style="box-sizing: border-box; display: block; margin: 0px 0px 1em; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;
+&lt;figcaption style="box-sizing: border-box; margin: 6px 0px 26px; text-align: left; font-size: 11px; font-style: italic; line-height: 17px; color: #444444;"&gt;Đặt t&amp;ecirc;n shop để bắt đầu b&amp;aacute;n h&amp;agrave;ng&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Điền t&amp;ecirc;n shop bạn mong muốn v&amp;agrave;o &amp;ocirc; v&amp;agrave; nhấn v&amp;agrave;o n&amp;uacute;t&amp;nbsp;&lt;strong style="box-sizing: border-box;"&gt;Check availability&lt;/strong&gt;. Nếu t&amp;ecirc;n bị tr&amp;ugrave;ng sẽ b&amp;aacute;o lỗi t&amp;iacute;ch đỏ, nếu hợp lệ th&amp;igrave; sẽ hiển thị t&amp;iacute;ch xanh.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;&lt;strong style="box-sizing: border-box;"&gt;Bước 3: K&amp;iacute;ch hoạt Shop&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class="wp-block-image size-large" style="box-sizing: border-box; display: block; margin: 0px 0px 1em; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;
+&lt;figcaption style="box-sizing: border-box; margin: 6px 0px 26px; text-align: left; font-size: 11px; font-style: italic; line-height: 17px; color: #444444;"&gt;K&amp;iacute;ch hoạt Shop&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Ở bước n&amp;agrave;y, Etsy y&amp;ecirc;u cầu bạn phải đăng 1 sản phẩm l&amp;ecirc;n để k&amp;iacute;ch hoạt shop. Nhấn v&amp;agrave;o n&amp;uacute;t Add a listing để đăng sản phẩm l&amp;ecirc;n Etsy.&amp;nbsp;&lt;/p&gt;
+&lt;figure class="wp-block-image size-large" style="box-sizing: border-box; display: block; margin: 0px 0px 1em; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;
+&lt;figcaption style="box-sizing: border-box; margin: 6px 0px 26px; text-align: left; font-size: 11px; font-style: italic; line-height: 17px; color: #444444;"&gt;K&amp;iacute;ch hoạt Shop&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Đ&amp;acirc;y l&amp;agrave; giao diện đăng b&amp;aacute;n sản phẩm tr&amp;ecirc;n Etsy, qu&amp;aacute; tr&amp;igrave;nh diễn ra cũng v&amp;ocirc; c&amp;ugrave;ng đơn giản. Đầu ti&amp;ecirc;n bạn cần tải h&amp;igrave;nh ảnh sản phẩm l&amp;ecirc;n từ Etsy từ m&amp;aacute;y t&amp;iacute;nh. Sau đ&amp;oacute;, điền c&amp;aacute;c th&amp;ocirc;ng tin sản phẩm v&amp;agrave;o mục Listing details, bao gồm: t&amp;ecirc;n sản phẩm, loại sản phẩm, ng&amp;agrave;nh h&amp;agrave;ng, gi&amp;aacute; b&amp;aacute;n mong muốn v&amp;agrave; số lượng.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;&lt;strong style="box-sizing: border-box;"&gt;Lưu &amp;yacute;:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Bạn n&amp;ecirc;n để số lượng sản phẩm c&amp;agrave;ng nhiều c&amp;agrave;ng tốt, như vậy sẽ gi&amp;uacute;p bạn tiết kiệm được chi ph&amp;iacute; đăng tin. Nếu bạn chỉ nhập số lượng sản phẩm l&amp;agrave; 1, sau khi b&amp;aacute;n được sản phẩm th&amp;igrave; tin đăng sẽ hết hạn, nếu muốn b&amp;aacute;n lại sản phẩm bạn sẽ mất tiền để gia hạn n&amp;oacute; với mức ph&amp;iacute; bằng ph&amp;iacute; đăng tin mới.&lt;/p&gt;</section_html>
 	</item></sections_o>
-	<internal-name>Women Styles for Winter</internal-name>
-	<title_t>Women Styles for Winter</title_t>
-	<subject_t>Women Styles for Winter</subject_t>
-	<author_s>Jane Doe</author_s>
+	<internal-name>Cách tạo tài khoản bán hàng trên Etsy</internal-name>
+	<title_t>Cách tạo tài khoản bán hàng trên Etsy</title_t>
+	<subject_t>Cách tạo tài khoản bán hàng trên Etsy</subject_t>
+	<author_s>Maslow</author_s>
 	<file-name>index.xml</file-name>
-	<folder-name>women-styles-for-winter</folder-name>
+	<folder-name>etsy-2</folder-name>
 	<header/>
 	<categories_o>	<item>	<key>Etsy</key>
 	<value_smv>Etsy</value_smv>
@@ -27,11 +51,11 @@
 	</item></segments_o>
 	<createdDate>2017-3-3T21:7:20.000Z</createdDate>
 	<createdDate_dt>2017-3-3T21:7:20.000Z</createdDate_dt>
-	<lastModifiedDate>2021-01-19T08:55:03.043Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-01-19T08:55:03.043Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-01-19T09:06:14.399Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-19T09:06:14.399Z</lastModifiedDate_dt>
 	<date_dt>2017-01-03T05:00:00.000Z</date_dt>
 	<featured_b>true</featured_b>
-	<summary_t>Donec quis justo ligula. Ut commodo nibh sit amet ultrices ultricies. Curabitur tempus venenatis vulputate. Quisque dignissim interdum tempus. Pellentesque luctus justo augue, vel gravida orci rutrum a. Sed elementum est sapien.</summary_t>
+	<summary_t>Sau khi hiểu được sơ bộ về Etsy là gì cũng như những thông tin quan trọng về việc bán hàng trên Etsy, đây là mục mà các bạn sẽ quan tâm nhất trong bài viết: Cách tạo tài khoản bán hàng trên Etsy.</summary_t>
 	<image_s>/static-assets/images/winter-woman-pic.jpg</image_s>
 	<disabled>false</disabled>
 	<header_o item-list="true"/>
