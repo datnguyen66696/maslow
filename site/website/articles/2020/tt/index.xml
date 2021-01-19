@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dc68</objectGroupId>
+	<objectId>dc680ce5-feda-ec3b-0668-dcc91efff2c2</objectId>
+	<sections_o item-list="true">	<item>	<section_html>&lt;p&gt;tt&lt;/p&gt;</section_html>
+	</item></sections_o>
+	<file-name>index.xml</file-name>
+	<folder-name>tt</folder-name>
+	<internal-name>tt</internal-name>
+	<title_t>tt</title_t>
+	<subject_t>tt</subject_t>
+	<author_s>tt</author_s>
+	<disabled>false</disabled>
+	<featured_b>false</featured_b>
+	<header_o item-list="true"/>
+	<left-rail_o item-list="true"/>
+	<summary_t>tt</summary_t>
+	<image_s/>
+	<categories_o>	<item>	<key>amazon</key>
+	<value_smv>Amazon</value_smv>
+	</item></categories_o>
+	<segments_o>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item></segments_o>
+	<date_dt>2020-11-02T05:00:00.000Z</date_dt>
+	<createdDate>2021-01-19T12:50:56.624Z</createdDate>
+	<createdDate_dt>2021-01-19T12:50:56.624Z</createdDate_dt>
+	<lastModifiedDate>2021-01-19T12:50:56.624Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-19T12:50:56.624Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>
