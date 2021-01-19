@@ -13,12 +13,12 @@
 &lt;p&gt;Pellentesque eget eros ut dui tincidunt convallis. Pellentesque tincidunt rutrum tellus, non rhoncus dui finibus eu. Integer eu sem maximus, blandit neque eu, congue leo. Ut pretium efficitur turpis, id dapibus turpis bibendum vel. Suspendisse a nibh dictum, imperdiet est et, interdum odio. Morbi urna magna, eleifend vitae luctus ac, scelerisque sit amet nisi. Quisque maximus placerat ante et fermentum. Nulla eu aliquet arcu, vel maximus massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam posuere arcu ex, in sagittis orci rhoncus eu. Suspendisse potenti. Curabitur facilisis sapien et ligula tristique lacinia. Aliquam a mauris bibendum, placerat augue sit amet, hendrerit arcu. Nam in bibendum sapien. Pellentesque laoreet nisi vel metus dapibus dictum. Integer semper, velit laoreet ornare maximus, nulla orci maximus ante, a tincidunt eros risus blandit eros.&lt;/p&gt;</section_html>
 	</item></sections_o>
 	<file-name>index.xml</file-name>
-	<folder-name>men-styles-for-winter</folder-name>
+	<folder-name>etsy-1</folder-name>
 	<header/>
-	<internal-name>Men Styles For Winter</internal-name>
-	<title_t>Men Styles For Winter</title_t>
-	<subject_t>Men Styles For Winter</subject_t>
-	<author_s>John Doe</author_s>
+	<internal-name>Tổng quan bán hàng trên Etsy</internal-name>
+	<title_t>Tổng quan bán hàng trên Etsy</title_t>
+	<subject_t>Tổng quan bán hàng trên Etsy</subject_t>
+	<author_s>Maslow</author_s>
 	<categories_o>	<item>	<key>Etsy</key>
 	<value_smv>Etsy</value_smv>
 	</item></categories_o>
@@ -28,10 +28,29 @@
 	<date_dt>2017-01-05T05:00:00.000Z</date_dt>
 	<createdDate>2017-3-3T20:57:7.000Z</createdDate>
 	<createdDate_dt>2017-3-3T20:57:7.000Z</createdDate_dt>
-	<lastModifiedDate>2021-01-19T08:54:55.024Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-01-19T08:54:55.024Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-01-19T09:03:56.102Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-19T09:03:56.102Z</lastModifiedDate_dt>
 	<featured_b>true</featured_b>
-	<summary_t>Nulla sed enim ipsum. Sed ac neque a ligula malesuada volutpat. Donec et ligula rutrum, mattis mauris eget, vestibulum metus. Maecenas non vehicula neque. Nunc ac mauris id ipsum commodo tempus. Integer at dolor consequat, dignissim eros in, imperdiet dui.</summary_t>
+	<summary_t>Quy trình tổng quan Etsy
+
+Quy trình tổng quan Etsy gồm 3 giai đoạn:
+
+Giai đoạn 1: Tạo tài khoản Paypal, tài khoản này sẽ nhận tiền (USD) của khách hàng.
+
+Để tạo tài khoản paypal, cần chuẩn bị:
+
+1 Thẻ visa/mastercard bất kì của 1 bank VN. Ví dụ: Vietcombank, ACB, Techcombank…
+Chứng minh thư nhân dân 2 mặt hoặc Passport.
+Giai đoạn 2: Tạo tài khoản Etsy, liên kết tài khoản Paypal.
+
+Để tạo tài khoản Etsy, cần chuẩn bị 1 thẻ visa/mastercard.
+
+Giai đoạn 3: Chụp ảnh, up sản phẩm lên store Etsy và chờ đợi khách mua hàng. Sau đó rút tiền từ tài khoản Paypal về bank VN.
+
+Để đăng sản phẩm lên Etsy, bạn cần chuẩn bị hình ảnh đã chụp sẵn, nên có từ 3-5 ảnh cho 1 sản phẩm dc chụp từ các góc độ khác nhau. Sau đó sẽ tiến hành list sản phẩm.
+
+Kết luận
+Ngoài bán hàng trên Amazon hay bán hàng trên Facebook , bạn cũng có thể kiếm tiền online trên Etsy. Hiện nay, việc kiếm tiền online rất đa dạng và có rất nhiều kênh phân phối mà bạn có thể hợp tác để phát triển việc kinh doanh và sự sáng tạo của bản thân.</summary_t>
 	<image_s>/static-assets/images/winter-man-pic.jpg</image_s>
 	<disabled>false</disabled>
 	<header_o item-list="true"/>
