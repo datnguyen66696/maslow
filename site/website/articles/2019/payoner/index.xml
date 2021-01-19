@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8211</objectGroupId>
+	<objectId>8211000a-8473-778f-2b8d-e74e10dd264c</objectId>
+	<sections_o item-list="true">	<item>	<section_html>&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;&lt;strong style="box-sizing: border-box;"&gt;1. PayPal l&amp;agrave; g&amp;igrave;?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;PayPal l&amp;agrave; một cổng thanh to&amp;aacute;n trực tuyến&amp;nbsp;nhằm hỗ trợ thanh to&amp;aacute;n, giao dịch qua mạng Internet được an to&amp;agrave;n&amp;nbsp;v&amp;agrave; thuận tiện. PayPal l&amp;agrave;&amp;nbsp;một h&amp;igrave;nh thức trung gian, gi&amp;uacute;p kết nối trực tiếp đến t&amp;agrave;i khoản ng&amp;acirc;n h&amp;agrave;ng của bạn để thực hiện c&amp;aacute;c giao dịch online. Đăng k&amp;yacute; t&amp;agrave;i khoản PayPal&amp;nbsp;ch&amp;iacute;nh l&amp;agrave; đăng k&amp;yacute; bằng địa chỉ email của bạn.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Khi sở hữu một t&amp;agrave;i khoản PayPal, bạn c&amp;oacute; thể chuyển tiền v&amp;agrave;o t&amp;agrave;i khoản n&amp;agrave;y để thanh to&amp;aacute;n online hoặc nhận tiền từ c&amp;aacute;c c&amp;ocirc;ng ty nước ngo&amp;agrave;i v&amp;agrave; r&amp;uacute;t tiền về t&amp;agrave;i khoản ng&amp;acirc;n h&amp;agrave;ng Việt Nam dễ d&amp;agrave;ng. Nếu bạn hay giao dịch online, m&amp;igrave;nh khuy&amp;ecirc;n bạn h&amp;atilde;y đăng k&amp;yacute; ngay một t&amp;agrave;i khoản PayPal.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;&lt;strong style="box-sizing: border-box;"&gt;2. Hướng dẫn c&amp;aacute;ch sử dụng PayPal&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Sau khi bạn đ&amp;atilde; đăng k&amp;yacute; v&amp;agrave;&amp;nbsp;verify (x&amp;aacute;c thực) t&amp;agrave;i khoản PayPal bằng thẻ Visa th&amp;agrave;nh c&amp;ocirc;ng, PayPal sẽ tự li&amp;ecirc;n kết với thẻ của bạn. Mỗi khi cần thanh to&amp;aacute;n v&amp;agrave; giao dịch bằng t&amp;agrave;i khoản PayPal, bạn chỉ cần sử dụng địa chỉ email đăng k&amp;yacute; v&amp;agrave; PayPal sẽ tự r&amp;uacute;t tiền từ t&amp;agrave;i khoản thẻ của bạn ra. T&amp;agrave;i khoản PayPal ch&amp;iacute;nh l&amp;agrave; địa chỉ email m&amp;agrave; bạn d&amp;ugrave;ng khi đăng k&amp;yacute;. Bạn c&amp;oacute; thể chuyển tiền cho t&amp;agrave;i khoản PayPal kh&amp;aacute;c hay thanh to&amp;aacute;n mua h&amp;agrave;ng trực tuyến nếu nơi b&amp;aacute;n h&amp;agrave;ng c&amp;oacute; hỗ trợ thanh to&amp;aacute;n qua PayPal.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;&lt;strong style="box-sizing: border-box;"&gt;3. Chuẩn bị đăng k&amp;yacute; t&amp;agrave;i khoản PayPal&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Để đăng k&amp;yacute;, tạo t&amp;agrave;i khoản PayPal, bạn cần chuẩn bị:&lt;/p&gt;
+&lt;ul style="box-sizing: border-box; padding: 0px; margin-bottom: 26px; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;
+&lt;li style="box-sizing: border-box; line-height: inherit; margin-left: 21px; margin-bottom: 10px;"&gt;01 địa chỉ email đang hoạt động. M&amp;igrave;nh thường d&amp;ugrave;ng địa chỉ Gmail cho tiện lợi.&lt;/li&gt;
+&lt;li style="box-sizing: border-box; line-height: inherit; margin-left: 21px; margin-bottom: 10px;"&gt;01&amp;nbsp;thẻ Visa/ MasterCard&amp;nbsp;c&amp;oacute; &amp;iacute;t nhất 2$&amp;nbsp;trong t&amp;agrave;i khoản để verify x&amp;aacute;c thực t&amp;agrave;i khoản. Nếu chưa c&amp;oacute;, bạn xem hướng dẫn l&amp;agrave;m thẻ Visa/ MasterCard tại đ&amp;acirc;y.&lt;/li&gt;
+&lt;li style="box-sizing: border-box; line-height: inherit; margin-left: 21px; margin-bottom: 10px;"&gt;CMTND/ thẻ căn cước/ hộ chiếu hoặc giấy ph&amp;eacute;p l&amp;aacute;i xe&amp;nbsp;của bạn.&lt;/li&gt;
+&lt;li style="box-sizing: border-box; line-height: inherit; margin-left: 21px; margin-bottom: 0px;"&gt;01 số điện thoại c&amp;aacute; nh&amp;acirc;n.&lt;/li&gt;
+&lt;/ul&gt;</section_html>
+	</item></sections_o>
+	<file-name>index.xml</file-name>
+	<folder-name>payoner</folder-name>
+	<disabled>false</disabled>
+	<featured_b>false</featured_b>
+	<internal-name>Đăng ký tài khoản Paypal- Hướng dẫn chi tiết</internal-name>
+	<title_t>Đăng ký tài khoản Paypal- Hướng dẫn chi tiết</title_t>
+	<subject_t>Đăng ký tài khoản Paypal- Hướng dẫn chi tiết</subject_t>
+	<author_s>Maslow</author_s>
+	<categories_o>	<item>	<key>cc</key>
+	<value_smv>General</value_smv>
+	</item></categories_o>
+	<segments_o>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item></segments_o>
+	<summary_t>PayPal là 1 cổng thanh toán trực tuyến nổi tiếng và phổ biến trên thế giới. Hiện nay có rất nhiều website cho phép thanh toán trực tuyến thông qua tài khoản PayPal để thực hiện các giao dịch trên mạng. Và hiện nay hầu hết các sellers đăng ký tài khoản Paypal để phục vụ cho việc bán hàng của họ.</summary_t>
+	<image_s>/static-assets/item/images/2021/01/19/paypal-security.jpg</image_s>
+	<header_o item-list="true"/>
+	<left-rail_o item-list="true"/>
+	<date_dt>2019-10-03T04:00:00.000Z</date_dt>
+	<createdDate>2021-01-19T12:00:09.825Z</createdDate>
+	<createdDate_dt>2021-01-19T12:00:09.825Z</createdDate_dt>
+	<lastModifiedDate>2021-01-19T12:00:09.825Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-19T12:00:09.825Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>
