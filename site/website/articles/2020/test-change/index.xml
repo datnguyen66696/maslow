@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>341a</objectGroupId>
+	<objectId>341a2ac5-67f2-564c-cd13-29465b755723</objectId>
+	<sections_o item-list="true">	<item>	<section_html>&lt;p&gt;test change&lt;/p&gt;</section_html>
+	</item></sections_o>
+	<internal-name>test change</internal-name>
+	<title_t>test change</title_t>
+	<subject_t>test change</subject_t>
+	<author_s>test change</author_s>
+	<file-name>index.xml</file-name>
+	<folder-name>test-change</folder-name>
+	<disabled>false</disabled>
+	<featured_b>false</featured_b>
+	<header_o item-list="true"/>
+	<left-rail_o item-list="true"/>
+	<image_s/>
+	<summary_t>test change</summary_t>
+	<categories_o>	<item>	<key>Etsy</key>
+	<value_smv>Etsy</value_smv>
+	</item></categories_o>
+	<segments_o>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item>	<item>	<key>gal</key>
+	<value_smv>Gal</value_smv>
+	</item></segments_o>
+	<createdDate>2021-01-24T16:50:09.540Z</createdDate>
+	<createdDate_dt>2021-01-24T16:50:09.540Z</createdDate_dt>
+	<lastModifiedDate>2021-01-24T16:50:09.540Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-24T16:50:09.540Z</lastModifiedDate_dt>
+	<date_dt>2021-01-24T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>
